@@ -6,9 +6,8 @@ body {
 
 
   .jumbotron {
-    background-image: url('C:\Users\isabe\Desktop\Analysis_Projects\UFOs\static\images\nasa.jpg');
+    background-image: url('../images/nasa.jpg');
     background-size: 100% 100%;
-    background-repeat: no-repeat;
     text-align: center;
   }
 
